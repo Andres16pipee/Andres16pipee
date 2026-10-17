@@ -1,16 +1,75 @@
-## Hi there 👋
+# Hola, soy Andrés Felipe Herrera 👋
 
-<!--
-**Andres16pipee/Andres16pipee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero de Sistemas | Desarrollo de Software | Análisis de Datos
 
-Here are some ideas to get you started:
+📍 Popayán, Cauca, Colombia · 🎓 Universidad del Cauca
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-andresherrera--data-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andresherrera-data)
+[![Gmail](https://img.shields.io/badge/Gmail-Andresherrera377-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Andresherrera377@gmail.com)
+
+---
+
+## 🚀 Sobre mí
+
+Ingeniero de Sistemas egresado de la Universidad del Cauca, con conocimientos en desarrollo de software, análisis de datos y bases de datos. He trabajado en proyectos académicos con **Java, Spring Boot, Angular y Python**, aplicando metodologías ágiles, modelado BPMN y arquitectura C4.
+
+Me interesa contribuir a soluciones tecnológicas que optimicen procesos y apoyen la toma de decisiones basada en datos.
+
+## 🛠️ Tecnologías
+
+**Backend**
+
+![Java](https://skillicons.dev/icons?i=java,spring)
+
+**Frontend**
+
+![Frontend](https://skillicons.dev/icons?i=angular,ts,html,css)
+
+**Datos y BI**
+
+![Datos](https://skillicons.dev/icons?i=python,pandas,numpy,mysql,postgres,jupyter)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+
+**Herramientas**
+
+![Tools](https://skillicons.dev/icons?i=git,github,docker,vscode)
+
+**Arquitectura y metodologías:** BPMN · Modelo C4 · Scrum · Kanban
+
+## 💼 Proyectos destacados
+
+- **Sistema de Gestión Académica para la FIET** (Proyecto de grado, 2025–2026): sistema para optimizar la atención a estudiantes de pregrado y automatizar procesos administrativos de la Facultad de Ingeniería Electrónica y Telecomunicaciones. Incluyó levantamiento de requisitos, modelado BPMN, arquitectura C4, frontend y backend, e integración de base de datos, con Scrum y Kanban.
+- **DataScience4Business** (2025–2026): dashboards en Power BI, Tableau y Excel; automatización de reportes con Python; análisis con SQL; Customer Analytics; analítica de inventarios y logística.
+
+## 📜 Certificaciones
+
+- CCNAv7: Switching, Routing and Wireless Essentials – Cisco
+- HTML5
+- Marketing Digital
+- Data Analytics Mastery
+- Iniciación al Desarrollo con IA – BIG school & MoureDev
+
+## 🌱 Actualmente
+
+- 📊 Profundizando en análisis de datos y Business Intelligence
+- 🤖 Explorando el desarrollo apoyado con IA
+- 🇬🇧 Mejorando mi inglés (B1)
+
+## 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Andres16pipee&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andres16pipee&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Andres16pipee&theme=tokyonight&hide_border=true" />
+</p>
+
+<!-- Si prefieres ghstats.dev, reemplaza las imágenes de arriba por las que genera el sitio con tu usuario Andres16pipee -->
+
+---
+
+<p align="center">⭐ ¡Gracias por visitar mi perfil!</p>
