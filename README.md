@@ -41,7 +41,12 @@ Me interesa contribuir a soluciones tecnológicas que optimicen procesos y apoye
 ## 💼 Proyectos destacados
 
 - **Sistema de Gestión Académica para la FIET** (Proyecto de grado, 2025–2026): sistema para optimizar la atención a estudiantes de pregrado y automatizar procesos administrativos de la Facultad de Ingeniería Electrónica y Telecomunicaciones. Incluyó levantamiento de requisitos, modelado BPMN, arquitectura C4, frontend y backend, e integración de base de datos, con Scrum y Kanban.
-- **DataScience4Business** (2025–2026): dashboards en Power BI, Tableau y Excel; automatización de reportes con Python; análisis con SQL; Customer Analytics; analítica de inventarios y logística.
+- **[ProyectoEliShineSpa](https://github.com/Andres16pipee/ProyectoEliShineSpa)**: proyecto de software para Eli Shine Spa, en desarrollo.
+- **Sistema POS** (en desarrollo): sistema de punto de venta que construyo junto a dos amigos ingenieros, como parte de nuestra organización.
+
+## 📚 Formación complementaria
+
+- **DataScience4Business** (curso): dashboards en Power BI, Tableau y Excel; automatización de reportes con Python; SQL; Customer Analytics.
 
 ## 📜 Certificaciones
 
@@ -53,6 +58,7 @@ Me interesa contribuir a soluciones tecnológicas que optimicen procesos y apoye
 
 ## 🌱 Actualmente
 
+- 🧾 Desarrollando un sistema POS con dos amigos ingenieros y el proyecto Eli Shine Spa
 - 📊 Profundizando en análisis de datos y Business Intelligence
 - 🤖 Explorando el desarrollo apoyado con IA
 - 🇬🇧 Mejorando mi inglés (B1)
